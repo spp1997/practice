@@ -1,4 +1,4 @@
-keys = ['a', 'b', 'c']
+keys = ["a", "b", "c"]
 values = [1, 2, 3]
 
 # Create dictionary using zip and dict

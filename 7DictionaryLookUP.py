@@ -4,7 +4,7 @@ capitals = {
     "United States": "Washington, D.C.",
     "France": "Paris",
     "Japan": "Tokyo",
-    "Australia": "Canberra"
+    "Australia": "Canberra",
 }
 
 # Ask the user for a country name

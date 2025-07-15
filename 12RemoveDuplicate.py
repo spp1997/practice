@@ -2,9 +2,9 @@ def remove_duplicates_preserve_order(lst):
     seen = set()
     result = []
     for item in lst:
-        if item not in seen:      # first time we see this element
-            seen.add(item)        # mark it as seen
-            result.append(item)   # keep it in the output list
+        if item not in seen:  # first time we see this element
+            seen.add(item)  # mark it as seen
+            result.append(item)  # keep it in the output list
     return result
 
 

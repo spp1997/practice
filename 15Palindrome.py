@@ -12,9 +12,8 @@ else:
     print(False)
 
 
+# text = "racecar"
 
-#text = "racecar"
+# is_palindrome = text == text[::-1]  # Reverse the string and compare
 
-#is_palindrome = text == text[::-1]  # Reverse the string and compare
-
-#print(is_palindrome)  # Output: True
+# print(is_palindrome)  # Output: True
